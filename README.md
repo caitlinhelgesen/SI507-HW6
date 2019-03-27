@@ -63,7 +63,7 @@ Below are a bunch of questions and indications of things to do. For each indicat
 * Sansitha Ookalkar (sansitha)
 * Megan St Andrew (innoobi)
 * Sara Gladchun (skglad)
-* Angela Chih ()
+* Angela Chih (ahchih)
 
 ## Questions & code instructions
 
